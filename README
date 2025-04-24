@@ -1,0 +1,8 @@
+clone the code 
+
+1. then add platform android and browser
+   cordova platform add browser 
+   cordova platform add android
+
+2. update node module package
+  npm install
